@@ -1,6 +1,6 @@
 # Apollo Lunar Module: Ascent Trajectory and Engine Sizing
 
-*Individual project · AE 401 Rocket Propulsion · Izmir University of Economics · Dec 2025 – Jan 2026*
+*Individual project · AE 401 Rocket Propulsion · Izmir University of Economics · Dec 2025 to Jan 2026*
 
 ![3D thrust chamber and nozzle](figures/nozzle.png)
 
@@ -54,7 +54,7 @@ Figures are taken from the two reports (figure numbers and captions as in each r
 
 ## Tool files
 | Path | Content | Opens with |
-|---|---|---|
+|:--|:--|:--|
 | `tools/cea/` | NASA CEA runs (O/F = 2.2 and the O/F sweep) as PDF | Any PDF reader |
 | `tools/rpa/` | RPA (Rocket Propulsion Analysis) nozzle and performance results as PDF | Any PDF reader |
 | `tools/FreeCAD/nozzle.FCStd` | Nozzle CAD model | [FreeCAD](https://www.freecad.org/) |
@@ -77,5 +77,4 @@ This project was completed on a course notebook framework by **Prof. Fabrizio Pi
 ## License
 CC BY 4.0, consistent with the original course material. Please credit both Prof. Fabrizio Pinto and Kaoutar Ammara.
 
----
 Kaoutar Ammara · Aerospace Engineer · [GitHub](https://github.com/Kiwiiiieee) · [LinkedIn](https://linkedin.com/in/kaoutar-ammara)
